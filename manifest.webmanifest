@@ -1,0 +1,9 @@
+{
+  "name": "iChild.org — Child Development Tools & Parenting Guides",
+  "short_name": "iChild",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fffaf5",
+  "theme_color": "#ff6b5c",
+  "icons": [{ "src": "assets/img/logo.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
