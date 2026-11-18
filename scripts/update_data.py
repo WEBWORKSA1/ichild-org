@@ -112,7 +112,7 @@ NEWS_QUERIES = [
     "child development study",
     "parenting research",
     "pediatrics new guidance children",
-    "early childhood education",
+    "early childhood development research",
     "children screen time study",
 ]
 
